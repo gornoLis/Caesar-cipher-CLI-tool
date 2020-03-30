@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "CLI tool that will encode and decode a text by [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gornoLis/Caesar-cipher-CLI-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gornoLis/Caesar-cipher-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/gornoLis/Caesar-cipher-CLI-tool#readme",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
